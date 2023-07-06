@@ -4,6 +4,7 @@
     "workspaceFolder": "/workspaces",
     "extensions": [
         "ms-python.python",
+        "ms-toolsai.jupyter",
         // Use black to format code (right click)
         "ms-python.black-formatter",
     ],
